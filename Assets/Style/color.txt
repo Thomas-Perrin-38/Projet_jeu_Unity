@@ -1,0 +1,9 @@
+DEC43F : couleur doré
+C7AD29 : couleur doré foncé
+fcdc12 : bouton d'or
+ffed00 : saturé
+e6c619 : désaturé
+
+2864ef : bleu associé
+0E50EA : bleu associé + foncé
+0639AD : bleu associé + + foncé
